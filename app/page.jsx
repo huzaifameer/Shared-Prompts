@@ -9,7 +9,7 @@ const Home = () => {
             <span className="darkBlue_gradient">AI-Powered Prompts</span>
         </h1>
         <p className="desc text-center">
-            SllydZAi is an open source AI prompting tool for modern worls to discover,
+            SollydZAi is an open source AI prompting tool for modern worls to discover,
             create and share creative prompts.
         </p>
         <Feed/>
